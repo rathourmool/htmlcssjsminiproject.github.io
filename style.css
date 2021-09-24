@@ -1,0 +1,30 @@
+
+    #back{
+    background: url(side.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 450px;
+    }
+    #road{
+        background: url(road.jpg);
+    }
+    #img{
+        width: 150px;
+    }
+    #btn{
+        width: 100px;
+        height: 50px ;
+        background-color: yellow;
+        font-size: 20px;
+        margin: 20px;
+        }
+        
+        
+         
+    #dbtn{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 40vh;
+        }
